@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://dlsvr04.asus.com.cn/pub/ASUS/ZenFone/ZS620KL/UL-Z01R-WW-90.11.162.111-user.zip
-  ROM_NAME: ZenUI
+  ROM_URL: http://download.h2os.com/OnePlus7Pro/OBT/OnePlus7ProHydrogen_13.X.29_OTA_029_all_2003130822_fcab24059d42463e.zip
+  ROM_NAME: OxygenOS:HydrogenOS
   TZ: Asia/Shanghai
 
 jobs:
